@@ -1,0 +1,160 @@
+import React, {useEffect, useState} from 'react';
+import {View, Text, TextInput} from 'react-native';
+import Icon from '../../../assets/svg/Component 26 – 1.svg';
+import {Button, Checkbox} from 'react-native-paper';
+const RamzEbor = ({navigation}) => {
+  return (
+    <View
+      style={{
+        flex: 1,
+        backgroundColor: '#FCFCFC',
+        justifyContent: 'center',
+        alignItems: 'center',
+      }}>
+      <View
+        style={{
+          flexDirection: 'row',
+          justifyContent: 'center',
+          alignItems: 'center',
+          height: '20%',
+          width: '100%',
+          backgroundColor: '#FCFCFC',
+        }}>
+        <Icon width={35} height={35} style={{marginHorizontal: 2}} />
+        <Text
+          style={{
+            fontFamily: 'IRANYekanMobileExtraBold',
+            fontSize: 30,
+            color: '#0F5D7F',
+          }}>
+          هماهنگـــ ...
+        </Text>
+      </View>
+      <View
+        style={{
+          backgroundColor: '#FFF',
+          width: '90%',
+          height: '70%',
+          alignItems: 'center',
+          shadowColor: 'blue',
+          shadowOpacity: 0.75,
+          shadowRadius: 30,
+          elevation: 5,
+        }}>
+        <Text
+          style={{
+            fontFamily: 'IRANYekanMobileRegular',
+            fontSize: 28,
+            textAlign: 'center',
+            color: '#444444',
+            marginTop: 10,
+          }}>
+          رمز عبور جدید
+        </Text>
+        <View
+          style={{
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            width: '100%',
+            height: '80%',
+          }}>
+          <View style={{width: '100%', alignItems: 'center'}}>
+            <View
+              style={{
+                width: '85%',
+                height: 60,
+                borderWidth: 1,
+                borderRadius: 5,
+                alignItems: 'center',
+                marginTop: 30,
+                marginLeft: 10,
+                marginRight: 10,
+                borderColor: '#707070',
+              }}>
+              <TextInput
+                placeholder="****************"
+                style={{
+                  width: '95%',
+                  height: 50,
+                  fontFamily: 'IRANYekanMobileRegular',
+                  fontSize: 17,
+                  marginTop: 5,
+                  // backgroundColor: 'red',
+                }}></TextInput>
+              <Text
+                style={{
+                  top: -68,
+                  backgroundColor: 'white',
+                  right: 90,
+                }}>
+                رمز عبور
+              </Text>
+            </View>
+            <View
+              style={{
+                width: '85%',
+                height: 60,
+                borderWidth: 1,
+                borderRadius: 5,
+                alignItems: 'center',
+                marginTop: 30,
+                // marginLeft: 10,
+                // marginRight: 10,
+                borderColor: '#707070',
+              }}>
+              <TextInput
+                placeholder="*****************"
+                style={{
+                  width: '95%',
+                  height: 50,
+                  fontFamily: 'IRANYekanMobileRegular',
+                  fontSize: 17,
+                  marginTop: 5,
+                  // backgroundColor: 'red',
+                }}></TextInput>
+              <Text
+                style={{
+                  top: -68,
+                  backgroundColor: 'white',
+                  right: 90,
+                }}>
+                تکرار رمز عبور
+              </Text>
+            </View>
+          </View>
+          {/* <View>
+            <Text>09124924704</Text>
+          </View> */}
+
+          <View
+            style={{
+              flexDirection: 'column',
+              justifyContent: 'space-around',
+              alignItems: 'center',
+            }}>
+            <Button
+              mode="contained"
+              style={{
+                width: 260,
+                height: 45,
+                backgroundColor: '#0F5D7F',
+              }}
+              onPress={() => navigation.navigate('Hamahang')}>
+              <Text
+                style={{fontSize: 20, fontFamily: 'IRANYekanMobileRegular'}}>
+                تایید
+              </Text>
+            </Button>
+          </View>
+        </View>
+      </View>
+      <View
+        style={{
+          width: '100%',
+          height: '10%',
+          backgroundColor: '#FCFCFC',
+        }}></View>
+    </View>
+  );
+};
+export default RamzEbor;

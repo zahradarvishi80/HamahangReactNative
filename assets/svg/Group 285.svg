@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.725" height="19.451" viewBox="0 0 36.725 19.451">
+  <g id="Group_285" data-name="Group 285" transform="translate(-303 -85.275)">
+    <g id="Group_470" data-name="Group 470" transform="translate(0 9)">
+      <g id="vuesax_outline_setting-4" data-name="vuesax/outline/setting-4" transform="translate(-107.725 -113.725)">
+        <g id="setting-4" transform="translate(428 190)">
+          <path id="Vector" d="M5.471,1.216H.608A.612.612,0,0,1,0,.608.612.612,0,0,1,.608,0H5.471a.612.612,0,0,1,.608.608A.612.612,0,0,1,5.471,1.216Z" transform="translate(12.359 4.66)" fill="#707070"/>
+          <path id="Vector-2" data-name="Vector" d="M3.85,1.216H.608A.612.612,0,0,1,0,.608.612.612,0,0,1,.608,0H3.85a.612.612,0,0,1,.608.608A.612.612,0,0,1,3.85,1.216Z" transform="translate(1.013 4.66)" fill="#707070"/>
+          <path id="Vector-3" data-name="Vector" d="M3.444,6.889A3.444,3.444,0,1,1,6.889,3.444,3.452,3.452,0,0,1,3.444,6.889Zm0-5.673A2.229,2.229,0,1,0,5.673,3.444,2.227,2.227,0,0,0,3.444,1.216Z" transform="translate(5.66 1.824)" fill="#707070"/>
+          <path id="Vector-4" data-name="Vector" d="M3.85,1.216H.608A.612.612,0,0,1,0,.608.612.612,0,0,1,.608,0H3.85a.612.612,0,0,1,.608.608A.612.612,0,0,1,3.85,1.216Z" transform="translate(13.98 13.575)" fill="#707070"/>
+          <path id="Vector-5" data-name="Vector" d="M5.471,1.216H.608A.612.612,0,0,1,0,.608.612.612,0,0,1,.608,0H5.471a.612.612,0,0,1,.608.608A.612.612,0,0,1,5.471,1.216Z" transform="translate(1.013 13.575)" fill="#707070"/>
+          <path id="Vector-6" data-name="Vector" d="M3.444,6.889A3.444,3.444,0,1,1,6.889,3.444,3.452,3.452,0,0,1,3.444,6.889Zm0-5.673A2.229,2.229,0,1,0,5.673,3.444,2.227,2.227,0,0,0,3.444,1.216Z" transform="translate(7.902 10.738)" fill="#707070"/>
+          <path id="Vector-7" data-name="Vector" d="M0,0H19.451V19.451H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+    <path id="Polygon_1" data-name="Polygon 1" d="M4.676,1.2a1,1,0,0,1,1.648,0l3.6,5.235A1,1,0,0,1,9.1,8H1.9a1,1,0,0,1-.824-1.567Z" transform="translate(314 100) rotate(180)" fill="#707070"/>
+  </g>
+</svg>

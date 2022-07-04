@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="15.467" viewBox="0 0 17 15.467">
+  <g id="Group_197" data-name="Group 197" transform="translate(0.1)">
+    <text id="تسک_های_روزانه" data-name="تسک های روزانه" transform="translate(6.9 10.377)" fill="#fff" font-size="1" font-family="IRANYekan" opacity="0"><tspan x="-6.815" y="0">تسک های روزانه</tspan></text>
+    <g id="vuesax_outline_task-square" data-name="vuesax/outline/task-square" transform="translate(1.432)">
+      <g id="task-square">
+        <path id="Vector" d="M3.867.967H.483A.487.487,0,0,1,0,.483.487.487,0,0,1,.483,0H3.867a.483.483,0,0,1,0,.967Z" transform="translate(7.489 5.233)" fill="#707070"/>
+        <path id="Vector-2" data-name="Vector" d="M.965,2.415a.478.478,0,0,1-.342-.142L.14,1.79a.483.483,0,1,1,.683-.683l.142.142L2.074.14a.483.483,0,0,1,.683.683l-1.45,1.45A.483.483,0,0,1,.965,2.415Z" transform="translate(3.624 4.274)" fill="#707070"/>
+        <path id="Vector-3" data-name="Vector" d="M3.867.967H.483A.487.487,0,0,1,0,.483.487.487,0,0,1,.483,0H3.867a.483.483,0,0,1,0,.967Z" transform="translate(7.489 9.744)" fill="#707070"/>
+        <path id="Vector-4" data-name="Vector" d="M.965,2.415a.478.478,0,0,1-.342-.142L.14,1.79a.483.483,0,1,1,.683-.683l.142.142L2.074.14a.483.483,0,0,1,.683.683l-1.45,1.45A.483.483,0,0,1,.965,2.415Z" transform="translate(3.624 8.786)" fill="#707070"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H15.467V15.467H0Z" fill="none" opacity="0"/>
+        <path id="Vector-6" data-name="Vector" d="M8.862,13.856H4.995C1.5,13.856,0,12.361,0,8.862V4.995C0,1.5,1.5,0,4.995,0H8.862c3.5,0,4.995,1.5,4.995,4.995V8.862C13.856,12.361,12.361,13.856,8.862,13.856ZM4.995.967C2.024.967.967,2.024.967,4.995V8.862c0,2.971,1.057,4.028,4.028,4.028H8.862c2.971,0,4.028-1.057,4.028-4.028V4.995c0-2.971-1.057-4.028-4.028-4.028Z" transform="translate(0.806 0.806)" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>
